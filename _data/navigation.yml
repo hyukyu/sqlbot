@@ -1,24 +1,16 @@
-- name: Pricing
+- name: VISION
   link: /pricing/
   new_window: false
   highlight: false
-- name: Blog
-  link: /blog/
+- name: NEWS
+  link: /news/
   new_window: false
   highlight: false
-- name: About
-  link: /about/
-  new_window: false
-  highlight: false
-- name: Contact
+- name: CONTACT
   link: /contact/
   new_window: false
   highlight: false
-- name: Login
-  link: /
-  new_window: true
+- name: ABOUT
+  link: /about/
+  new_window: false
   highlight: false
-- name: Sign Up
-  link: /
-  new_window: true
-  highlight: true

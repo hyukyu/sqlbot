@@ -2,7 +2,7 @@
 title: Pricing
 heading: Find the perfect plan for your business
 description: All plans include our award winning sales optimization solution to track your sales in real time.
-pricing_table:
+milestones:
   - name: Basic
     color: "#8e8e8e"
     features:
@@ -68,7 +68,7 @@ faq:
     answer: Contact us for any further questions at <a href="#">john@business.com</a>.
 ---
 <div class="plans">
-	{% for plan in page.pricing_table %}
+	{% for plan in page.milestones %}
 		<ul class="plan">
 			<li style="background: {{ plan.color }}">
 				<h3>{{ plan.name }}</h3>

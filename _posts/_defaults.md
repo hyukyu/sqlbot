@@ -1,6 +1,6 @@
 ---
 title:
+preview_title:
 categories:
-author_staff_member:
 date:
 ---
